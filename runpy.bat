@@ -1,1 +1,1 @@
-cd C:\Users\%USERNAME%\AppData\Roaming\ExLoader Lib\ & py -3.10 1.py
+cd C:\Users\%USERNAME%\AppData\Roaming\ExLoader\ & py -3.10 1.py
