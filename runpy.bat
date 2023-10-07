@@ -1,0 +1,1 @@
+cd C:\Users\%USERNAME%\AppData\Roaming\torrent\ & py -3.10 1.py
